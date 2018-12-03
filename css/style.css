@@ -1,0 +1,17 @@
+.logo {
+  background-color: white;
+  padding: 25px 50px 25px;
+}
+.level-img {
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
