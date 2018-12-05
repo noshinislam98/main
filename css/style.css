@@ -2,12 +2,22 @@
   background-color: white;
   padding: 25px 50px 25px;
 }
+
 .level-img {
     display: inline-block;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 300px;
+}
+
+.characters {
+  height: 200px;
+  width: 5%;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 .center{
