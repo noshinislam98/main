@@ -1,8 +1,12 @@
 body{
   background-color: black;
   color: white;
-  font-family: Arial;
+  font-family: monospace;
   padding: 20px;
+}
+
+.nav-item{
+  font-size: 20px;
 }
 
 .logo {
@@ -14,8 +18,10 @@ body{
     display: inline-block;
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 3px;
+    margin: 3px;
+    margin-bottom: 10px;
     width: 300px;
+    background-color: white;
 }
 .characters-img {
 
@@ -39,6 +45,7 @@ body{
 .button{
   background-color: #a0e016; /*green*/
   color: black;
+  font-size: 20px;
   border: none;
   margin: 10px;
 }
@@ -116,6 +123,7 @@ body{
   border-radius: 5px;
   border-color:#a0e016;
   padding: 2px;
+  margin: 5px;
   width: 75px;
   border-radius: 50%;
 }
