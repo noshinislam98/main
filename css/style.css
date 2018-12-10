@@ -36,18 +36,14 @@ body{
   padding: 50px;
 }
 
-/* .button {
-  background-color: #4CAF50;
+button{
+  background-color: #a0e016;
+  color: black;
   border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-} */
+  margin: 10px;
+}
 
-.btn-twitter{
+/* .btn-twitter{
   background-color: #a0e016;
   color: black;
   border: none;
@@ -63,7 +59,7 @@ body{
   background-color: #a0e016;
   color: black;
   border: none;
-}
+} */
 
 .header{
   padding: 30px;
